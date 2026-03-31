@@ -1,1 +1,1 @@
-# Sumision-Kelas-DL
+Proyek ini merupakan implementasi model Deep Learning yang dirancang untuk mengklasifikasikan gambar pemandangan alam berdasarkan dataset Intel Image Classification. Model ini dilatih untuk mengenali enam kategori utama secara akurat, yaitu gedung (buildings), hutan (forest), gletser (glacier), pegunungan (mountain), laut (sea), dan jalanan (street). Dengan menggunakan arsitektur Convolutional Neural Network (CNN), model mampu melakukan ekstraksi fitur visual yang kompleks untuk membedakan karakteristik unik dari setiap kategori pemandangan tersebut.
